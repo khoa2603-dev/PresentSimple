@@ -1,0 +1,660 @@
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] I ________ to school by bus.
+[A] go
+[B] goes
+[C] going
+[D] to go
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Chủ ngữ 'I' đi với động từ nguyên thể.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] She ________ English on Tuesday.
+[A] study
+[B] studies
+[C] studying
+[D] is study
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Chủ ngữ 'She' ngôi thứ 3 số ít, động từ tận cùng bằng 'y' đổi thành 'ies'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] My friends ________ football after school.
+[A] play
+[B] plays
+[C] playing
+[D] to play
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Chủ ngữ 'My friends' số nhiều, động từ nguyên thể.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] Minh ________ a new bicycle.
+[A] have
+[B] has
+[C] having
+[D] is have
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Chủ ngữ 'Minh' số ít, dùng 'has'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] We ________ math on Friday.
+[A] don't have
+[B] doesn't have
+[C] not have
+[D] aren't have
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Chủ ngữ 'We' dùng trợ động từ 'don\'t'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] ________ you like your new school?
+[A] Do
+[B] Does
+[C] Are
+[D] Is
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Câu hỏi với chủ ngữ 'you' dùng trợ động từ 'Do'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] ________ Lan live near here?
+[A] Do
+[B] Does
+[C] Is
+[D] Are
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Câu hỏi với chủ ngữ 'Lan' (ngôi thứ 3 số ít) dùng 'Does'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] They ________ to school on Sundays.
+[A] don't go
+[B] doesn't go
+[C] not go
+[D] aren't go
+[ĐÁP ÁN] A
+[GIẢI THÍCH] 'They' đi với trợ động từ 'don\'t'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] My mother ________ breakfast at 6 a.m.
+[A] make
+[B] makes
+[C] making
+[D] to make
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Chủ ngữ số ít 'My mother' -> động từ thêm 's'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] The children ________ their homework in the evening.
+[A] do
+[B] does
+[C] doing
+[D] to do
+[ĐÁP ÁN] A
+[GIẢI THÍCH] 'The children' là số nhiều -> động từ nguyên thể.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] He ________ reading books in the library.
+[A] like
+[B] likes
+[C] liking
+[D] to like
+[ĐÁP ÁN] B
+[GIẢI THÍCH] 'He' -> động từ thêm 's'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] ________ your brother play chess?
+[A] Do
+[B] Does
+[C] Is
+[D] Are
+[ĐÁP ÁN] B
+[GIẢI THÍCH] 'your brother' là số ít -> dùng 'Does'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] I ________ a brother, but I have a sister.
+[A] don't have
+[B] doesn't have
+[C] not have
+[D] am not have
+[ĐÁP ÁN] A
+[GIẢI THÍCH] 'I' -> dùng 'don\'t'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] Our school ________ a large playground.
+[A] have
+[B] has
+[C] having
+[D] to have
+[ĐÁP ÁN] B
+[GIẢI THÍCH] 'Our school' là số ít -> dùng 'has'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] What time ________ you go to bed?
+[A] do
+[B] does
+[C] are
+[D] is
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Chủ ngữ 'you' -> dùng 'do'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] I ________ up late on the weekend.
+[A] usually get
+[B] get usually
+[C] am usually get
+[D] usually gets
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ tần suất đứng trước động từ thường.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] She ________ late for school.
+[A] is never
+[B] never is
+[C] never be
+[D] be never
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ tần suất đứng sau động từ to be (is/am/are).
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] We ________ TV in the morning.
+[A] rarely watch
+[B] watch rarely
+[C] are rarely watch
+[D] rarely watches
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ tần suất đứng trước động từ thường 'watch'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] They ________ their bicycles to school.
+[A] often ride
+[B] ride often
+[C] often rides
+[D] riding often
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ thường 'ride'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] My dad ________ coffee for breakfast.
+[A] always drinks
+[B] drinks always
+[C] always drink
+[D] is always drink
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ thường, 'My dad' -> thêm 's'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] He ________ his homework after dinner.
+[A] sometimes does
+[B] does sometimes
+[C] sometimes do
+[D] is sometimes do
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ thường 'does'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] You ________ English very well.
+[A] always speak
+[B] speak always
+[C] always speaks
+[D] speaking always
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ thường 'speak'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] My parents ________ to the cinema.
+[A] hardly ever go
+[B] go hardly ever
+[C] hardly ever goes
+[D] are hardly ever go
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ thường 'go'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] It ________ cold in winter.
+[A] is usually
+[B] usually is
+[C] usually be
+[D] be usually
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ tần suất đứng sau to be (is).
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] I ________ a shower in the evening.
+[A] often take
+[B] take often
+[C] often takes
+[D] am often take
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ thường 'take'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] She ________ her room on Sundays.
+[A] usually cleans
+[B] cleans usually
+[C] usually clean
+[D] is usually clean
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ thường, 'She' -> cleans.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] We ________ free on Mondays.
+[A] are never
+[B] never are
+[C] never be
+[D] be never
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng sau to be 'are'.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] Minh and Lan ________ badminton after school.
+[A] often play
+[B] play often
+[C] often plays
+[D] are often play
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trạng từ đứng trước động từ 'play', chủ ngữ số nhiều.
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] How ________ do you go swimming?
+[A] often
+[B] always
+[C] usually
+[D] never
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Cấu trúc hỏi tần suất: How often...
+===
+[LOẠI] TRẮC NGHIỆM
+[CÂU HỎI] Does she ________ cook dinner?
+[A] usually
+[B] usual
+[C] always is
+[D] often doing
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Trong câu hỏi, trạng từ tần suất đứng giữa chủ ngữ và động từ chính.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "I often listen to music in my free time." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng cấu trúc. Trạng từ 'often' đứng trước động từ 'listen'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "She doesn't like playing football." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Chủ ngữ 'She' dùng mượn trợ động từ 'doesn\'t', động từ 'like' nguyên thể.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "They are always happy to see us." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Trạng từ 'always' đứng sau to be 'are'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "Does your mother work in a hospital?" (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Câu hỏi với chủ ngữ số ít 'your mother' dùng 'Does', động từ 'work' nguyên thể.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "We rarely eat fast food." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Trạng từ 'rarely' đứng trước động từ 'eat'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "My brother sometimes helps me with my homework." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. 'sometimes' đứng trước 'helps', động từ thêm 's' vì chủ ngữ số ít.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "I am never late for school." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Trạng từ 'never' đứng sau to be 'am'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "Do you usually read books at bedtime?" (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Câu hỏi với 'usually' đứng giữa chủ ngữ 'you' và động từ 'read'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "He doesn't often go out in the evening." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Trong câu phủ định, 'often' đứng sau 'doesn\'t' và trước động từ 'go'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "The sun sets in the west." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Sự thật hiển nhiên chia ở thì Hiện tại đơn, chủ ngữ số ít.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "She always gets up at 6 a.m." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. 'always' đứng trước 'gets'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "We don't have classes on Sunday." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Phủ định với 'We' dùng 'don\'t'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "Is he usually at home on weekends?" (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Câu hỏi với to be 'Is', trạng từ 'usually' đứng sau chủ ngữ.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "My friends often play basketball after school." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. Chủ ngữ số nhiều, 'often' đứng trước động từ nguyên thể.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "I hardly ever watch TV." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] True
+[GIẢI THÍCH] Câu đúng. 'hardly ever' đứng trước động từ 'watch'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "He don't like English." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai ở 'don\'t'. Chủ ngữ 'He' phải dùng 'doesn\'t'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "They goes to the library every day." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai ở 'goes'. Chủ ngữ 'They' số nhiều thì động từ phải giữ nguyên 'go'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "She is play the piano now." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai ngữ pháp nghiêm trọng. Nếu là HTĐ: She plays. Nếu là HTTD: She is playing.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "I usually am tired after school." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai vị trí trạng từ. Trạng từ 'usually' phải đứng SAU to be. Sửa lại: I am usually tired...
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "Do your sister have a bike?" (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai trợ động từ. 'your sister' là số ít, phải dùng 'Does'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "We not have art today." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai cách lập câu phủ định. Phải mượn trợ động từ: We don\'t have...
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "He play always soccer on weekends." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai vị trí trạng từ. 'always' phải đứng TRƯỚC động từ 'play'. Sửa: He always plays...
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "Does they like studying math?" (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai trợ động từ. 'they' đi với 'Do' chứ không phải 'Does'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "She never doesn't do her homework." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai vì dùng phủ định kép. 'never' đã mang nghĩa phủ định. Sửa: She never does her homework.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "My mom always cook delicious food." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai vì thiếu 's' ở động từ. 'My mom' là số ít nên phải là 'cooks'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "Are you often go to the park?" (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai vì dùng to be 'Are' với động từ thường 'go'. Phải dùng trợ động từ 'Do you often go...'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "He always is late for class." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai vị trí trạng từ. Phải là 'He is always late...'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "They often doesn't visit their grandparents." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai trợ động từ. 'They' phải đi với 'don\'t'. Sửa: They don\'t often visit...
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "I haves a new school bag." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai cách chia động từ. Ngôi thứ nhất số ít 'I' dùng 'have'.
+===
+[LOẠI] ĐÚNG SAI
+[CÂU HỎI] "We are usually play games." (Câu này Đúng hay Sai?)
+[True] True (Đúng)
+[False] False (Sai)
+[ĐÁP ÁN] False
+[GIẢI THÍCH] Sai ngữ pháp (vừa có to be vừa có động từ thường nguyên thể). Sửa: We usually play games.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: I / my bicycle / often / ride / to school .
+[A] often ride my bicycle to school. I
+[B] I often ride my bicycle to school.
+[C] school. to bicycle my ride often I
+[D] I ride my bicycle to school. often
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Đáp án đúng: I often ride my bicycle to school.. Trạng từ 'often' đứng trước động từ 'ride'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: He / early / always / gets up .
+[A] early. up gets always He
+[B] always gets up early. He
+[C] He always gets up early.
+[D] He gets up early. always
+[ĐÁP ÁN] C
+[GIẢI THÍCH] Đáp án đúng: He always gets up early.. Trạng từ 'always' đứng trước động từ 'gets up'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: They / to the cinema / sometimes / go .
+[A] They sometimes go to the cinema.
+[B] sometimes go to the cinema. They
+[C] cinema. the to go sometimes They
+[D] They go to the cinema. sometimes
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Đáp án đúng: They sometimes go to the cinema.. Trạng từ 'sometimes' đứng trước động từ 'go'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: She / late / is / never / for school .
+[A] She never late for school. is
+[B] is never late for school. She
+[C] school. for late never is She
+[D] She is never late for school.
+[ĐÁP ÁN] D
+[GIẢI THÍCH] Đáp án đúng: She is never late for school.. Trạng từ 'never' đứng sau to be 'is'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: usually / What time / do / go to bed / you / ?
+[A] time do you usually go to bed? What
+[B] What time do you usually go to bed?
+[C] bed? to go usually you do time What
+[D] What do you usually go to bed? time
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Đáp án đúng: What time do you usually go to bed?. Cấu trúc: Từ để hỏi + do/does + S + trạng từ + V?
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: We / badminton / play / rarely .
+[A] We rarely play badminton.
+[B] rarely play badminton. We
+[C] badminton. play rarely We
+[D] We play badminton. rarely
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Đáp án đúng: We rarely play badminton.. Trạng từ 'rarely' đứng trước động từ 'play'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: often / you / Do / read books / in the evening / ?
+[A] evening? the in books read often you Do
+[B] you often read books in the evening? Do
+[C] Do you often read books in the evening?
+[D] Do often read books in the evening? you
+[ĐÁP ÁN] C
+[GIẢI THÍCH] Đáp án đúng: Do you often read books in the evening?. Cấu trúc hỏi: Do/Does + S + trạng từ + V + ...?
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: My mother / cooks / always / dinner .
+[A] mother always cooks dinner. My
+[B] My mother always cooks dinner.
+[C] dinner. cooks always mother My
+[D] My always cooks dinner. mother
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Đáp án đúng: My mother always cooks dinner.. Trạng từ 'always' đứng trước động từ 'cooks'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: am / I / usually / tired / after school .
+[A] I am usually tired after school.
+[B] am usually tired after school. I
+[C] school. after tired usually am I
+[D] I usually tired after school. am
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Đáp án đúng: I am usually tired after school.. Trạng từ 'usually' đứng sau to be 'am'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: doesn't / often / He / watch TV / .
+[A] He often watch TV. doesn't
+[B] doesn't often watch TV. He
+[C] TV. watch often doesn't He
+[D] He doesn't often watch TV.
+[ĐÁP ÁN] D
+[GIẢI THÍCH] Đáp án đúng: He doesn't often watch TV.. Trạng từ 'often' đứng giữa trợ động từ phủ định và động từ chính.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: sometimes / play / We / football / on Sundays .
+[A] We sometimes play football on Sundays.
+[B] sometimes play football on Sundays. We
+[C] Sundays. on football play sometimes We
+[D] We play football on Sundays. sometimes
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Đáp án đúng: We sometimes play football on Sundays.. Trạng từ 'sometimes' đứng trước động từ 'play'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: never / She / eats / fast food / .
+[A] never eats fast food. She
+[B] She never eats fast food.
+[C] food. fast eats never She
+[D] She eats fast food. never
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Đáp án đúng: She never eats fast food.. Trạng từ 'never' đứng trước động từ 'eats'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: often / Does / rain / it / in summer / ?
+[A] summer? in rain often it Does
+[B] it often rain in summer? Does
+[C] Does it often rain in summer?
+[D] Does often rain in summer? it
+[ĐÁP ÁN] C
+[GIẢI THÍCH] Đáp án đúng: Does it often rain in summer?. Câu hỏi Yes/No với 'Does' và trạng từ 'often'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: are / The students / always / hard-working / .
+[A] students are always hard-working. The
+[B] The students are always hard-working.
+[C] hard-working. always are students The
+[D] The are always hard-working. students
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Đáp án đúng: The students are always hard-working.. Trạng từ 'always' đứng sau to be 'are'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: usually / don't / I / get up / late .
+[A] I don't usually get up late.
+[B] don't usually get up late. I
+[C] late. up get usually don't I
+[D] I usually get up late. don't
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Đáp án đúng: I don't usually get up late.. Trạng từ 'usually' đứng sau don\'t.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: hardly ever / They / go / to the library / .
+[A] library. the to go ever hardly They
+[B] hardly ever go to the library. They
+[C] They hardly ever go to the library.
+[D] They ever go to the library. hardly
+[ĐÁP ÁN] C
+[GIẢI THÍCH] Đáp án đúng: They hardly ever go to the library.. Trạng từ 'hardly ever' đứng trước động từ 'go'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: always / My father / reads / the newspaper / in the morning .
+[A] father always reads the newspaper in the morning. My
+[B] My father always reads the newspaper in the morning.
+[C] morning. the in newspaper the reads always father My
+[D] My always reads the newspaper in the morning. father
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Đáp án đúng: My father always reads the newspaper in the morning.. Trạng từ 'always' đứng trước động từ 'reads'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: is / often / It / hot / in July .
+[A] It is often hot in July.
+[B] is often hot in July. It
+[C] July. in hot often is It
+[D] It often hot in July. is
+[ĐÁP ÁN] A
+[GIẢI THÍCH] Đáp án đúng: It is often hot in July.. Trạng từ 'often' đứng sau to be 'is'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: sometimes / Do / you / your friends / visit / ?
+[A] friends? your visit sometimes you Do
+[B] you sometimes visit your friends? Do
+[C] Do you sometimes visit your friends?
+[D] Do sometimes visit your friends? you
+[ĐÁP ÁN] C
+[GIẢI THÍCH] Đáp án đúng: Do you sometimes visit your friends?. Câu hỏi với 'sometimes' đứng trước động từ chính 'visit'.
+===
+[LOẠI] SẮP XẾP CÂU
+[CÂU HỎI] Sắp xếp thành câu hoàn chỉnh: never / He / his homework / forgets / .
+[A] never forgets his homework. He
+[B] He never forgets his homework.
+[C] homework. his forgets never He
+[D] He forgets his homework. never
+[ĐÁP ÁN] B
+[GIẢI THÍCH] Đáp án đúng: He never forgets his homework.. Trạng từ 'never' đứng trước động từ 'forgets'.
+===
